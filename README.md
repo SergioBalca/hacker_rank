@@ -1,4 +1,4 @@
-<img src='HAckerRank.png' alt='logo'>
+<img src='HAckerRank.png' alt='logo' width="42" height="42">
 
 # About HackerRank
 
