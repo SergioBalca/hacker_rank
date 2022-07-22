@@ -9,4 +9,5 @@ developers and innovate faster.
 # About the repository
 This repository has exercies taken from the 3 months interview preparation kit that contains 104 challenges and 13 mock tests, to strengthen developers algorithms and problem-solving skills.
 
-These challenges are solved in python and JavaScript
+These challenges are solved in python and JavaScript, and are divided by weeks (7 exercises each week).
+Inside each week folder, you can find a Readme file that explain the challenges, the functions and its return values.
