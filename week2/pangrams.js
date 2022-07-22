@@ -39,7 +39,8 @@ function pangrams (s) {
   }
 
   for (const element of alphabet) {
-    if (sLower.includes(element)) { // To check if string has all letters from alphabet
+    // To check if string has all letters from alphabet
+    if (sLower.includes(element)) {
       continue;
     } else {
       return ('not pangram');
