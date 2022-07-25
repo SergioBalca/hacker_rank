@@ -34,3 +34,34 @@ int: the number of ways the bar can be divided
 The first line contains an integer , the number of squares in the chocolate bar.
 The second line contains <em>n</em> space-separated integers <em>s[i]</em>, the numbers on the chocolate squares where i is between 0 and <em>n</em>.
 The third line contains two space-separated integers,  and , Ron's birth day and his birth month.
+
+# XOR Strings 3
+
+<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="51px" height="51px"></a>
+
+In this challenge, the task is to debug the existing code to successfully execute all provided test files.
+
+Given two strings consisting of digits 0 and 1 only, find the XOR of the two strings.
+
+
+Debug the given function strings_xor to find the XOR of the two given strings appropriately.
+
+Note: You can modify at most three lines in the given code and you cannot add or remove lines to the code.
+
+To restore the original code, click on the icon to the right of the language selector.
+
+<b>Input Format</b>
+
+The input consists of two lines. The first line of the input contains the first string, <em>s</em>, and the second line contains the second string, <em>t</em>.
+
+<b>Output Format</b>
+
+Print the string obtained by the XOR of the two input strings in a single line.
+
+<b>Sample Input</b>
+
+10101
+00101
+<b>Sample Output</b>
+
+10000
