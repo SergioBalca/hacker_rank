@@ -1,4 +1,5 @@
-# Subarray Division 2
+# Subarray Division 2 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="51px" height="51px"></a>
 
 Two children, Lily and Ron, want to share a chocolate bar. Each of the squares has an integer on it.
 
