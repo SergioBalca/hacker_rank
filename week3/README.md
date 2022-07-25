@@ -16,7 +16,7 @@ Determine how many ways she can divide the chocolate.
 
 Lily wants to find segments summing to Ron's birth day, <em>d = 4</em> with a length equalling his birth month, <em>m = 2</em>. In this case, there are two segments meeting her criteria: [2, 2] and [1, 3].
 
-Function Description
+<b>Function Description</b>
 
 Complete the birthday function in the editor below.
 
@@ -26,7 +26,7 @@ int s[n]: the numbers on each of the squares of chocolate
 int d: Ron's birth day
 int m: Ron's birth month
 
-Returns
+<b>Returns</b>
 
 int: the number of ways the bar can be divided
 
