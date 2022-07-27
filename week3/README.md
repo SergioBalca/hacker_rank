@@ -74,7 +74,7 @@ There is a large pile of socks that must be paired by color. Given an array of i
 <b>*Example*</b>
 
 <em>n = 7</em>
-<em>ar = [1, 2, 1, 2, 1, 3, 2]
+<em>ar = [1, 2, 1, 2, 1, 3, 2] </em>
 
 There is one pair of color 1 and one of color 2. There are three odd socks left, one of each color. The number of pairs is 2.
 
