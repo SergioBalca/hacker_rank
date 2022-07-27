@@ -65,3 +65,60 @@ Print the string obtained by the XOR of the two input strings in a single line.
 <b>Sample Output</b>
 
 10000
+
+# Sales by Match
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="51px" height="51px"></a>
+
+There is a large pile of socks that must be paired by color. Given an array of integers representing the color of each sock, determine how many pairs of socks with matching colors there are.
+
+<b>*Example*</b>
+
+<em>n = 7</em>
+<em>ar = [1, 2, 1, 2, 1, 3, 2]
+
+There is one pair of color 1 and one of color 2. There are three odd socks left, one of each color. The number of pairs is 2.
+
+<b>Function Description</b>
+
+Complete the sockMerchant function in the editor below.
+
+sockMerchant has the following parameter(s):
+
+<ul>
+    <li>int n: the number of socks in the pile</li>
+    <li>int ar[n]: the colors of each sock</li>
+</ul>
+
+<b>Returns</b>
+
+int: the number of pairs
+
+<b>Input Format</b>
+
+The first line contains an integer <em>n</em>, the number of socks represented in <em>ar</em>.
+The second line contains <em>n</em> space-separated integers, <em>ar[i]</em>, the colors of the socks in the pile.
+
+# Migratory Birds
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="51px" height="51px"></a>
+
+Given an array of bird sightings where every element represents a bird type id, determine the id of the most frequently sighted type. If more than 1 type has been spotted that maximum amount, return the smallest of their ids.
+
+<b>Example</b>
+<em>arr = [1, 1, 2, 2, 3]</em>
+
+There are two each of types 1 and 2, and one sighting of type 3. Pick the lower of the two types seen twice: type 1.
+
+Function Description
+
+Complete the migratoryBirds function in the editor below.
+
+migratoryBirds has the following parameter(s):
+
+int arr[n]: the types of birds sighted
+Returns
+
+int: the lowest type id of the most frequently sighted birds
+Input Format
+
+The first line contains an integer, <em>n</em>, the size of <em>arrr</em>.
+The second line describes <em>arr</em> as <em>n</em> space-separated integers, each a type number of the bird sighted.
