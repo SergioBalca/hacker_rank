@@ -14,7 +14,7 @@ The international Morse code is shown in the image below.
 
 <em>inputString</em> = my name is sergio.
 
-<em>translatedstr</em> =  
+<em>translatedstr</em> =  '-- -.--   -. .- -- .   .. ...   ... . .-. --. .. ---'.
 
 <b>Input format</b>
 
@@ -22,7 +22,7 @@ The input is always a string that contains wheather Morse code or regular text.
 
 The text massage must be passed in lowercase, without special characters. Only letters from alphabet and numbers between 0 and 1 are accepted.
 
-When Morse code is passed as argument, there should be a space between each character, and two spaces between each complete sentence.
+When Morse code is passed as argument, there should be a space between each character, and two spaces between each sentece.
 
 <b>Returns</b>
 
