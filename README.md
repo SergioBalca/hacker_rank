@@ -7,6 +7,9 @@ By enabling recruiters and managers to objectively evaluate talent at every stag
 developers and innovate faster.
 
 # About the repository
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="51px" height="51px"></a>
+<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="51px" height="51px"></a>
+
 This repository has exercies taken from the 3 months interview preparation kit that contains 104 challenges and 13 mock tests, to strengthen developers algorithms and problem-solving skills.
 
 These challenges are solved in python and JavaScript, and are divided by weeks (7 exercises each week).
