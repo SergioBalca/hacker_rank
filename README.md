@@ -14,3 +14,5 @@ This repository has exercies taken from the 3 months interview preparation kit t
 
 These challenges are solved in python and JavaScript, and are divided by weeks (7 exercises each week).
 Inside each week folder, you can find a Readme file that explain the challenges, the functions and its return values.
+
+There is also a random exersices folder, with challenges from different sources; and a 30DaysofCode folder with challenges from hacker rank also.

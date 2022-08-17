@@ -20,7 +20,7 @@ from collections import Counter
 
 def pickingNumbers(a):
     # Write your code here
-    """ with counter a dictionary with the values of the array as keys is created.
+    """ with counter, a dictionary with the values of the array as keys is created.
         The values are the frecuency of each value
     """
     a = Counter(a)

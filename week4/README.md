@@ -1,5 +1,5 @@
 # Picking Numbers
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="51px" height="51px"></a>
+<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="51px" height="51px"></a>
 
 Given an array of integers, find the longest subarray where the absolute difference between any two elements is less than or equal to 1.
 
