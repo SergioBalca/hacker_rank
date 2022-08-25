@@ -1,4 +1,5 @@
 <img src='images/hacker_rank.png' alt='logo'>
+<a href="https://www.hackerrank.com/SergioBalca">My HackerRank profile</a>
 
 # About HackerRank
 
@@ -15,4 +16,4 @@ This repository has exercies taken from the 3 months interview preparation kit t
 These challenges are solved in python and JavaScript, and are divided by weeks (7 exercises each week).
 Inside each week folder, you can find a Readme file that explain the challenges, the functions and its return values.
 
-There is also a random exersices folder, with challenges from different sources; and a 30DaysofCode folder with challenges from hacker rank also.
+There is also a random exersices folder, with challenges from different sources; and a 30DaysofCode folder with challenges from hacker rank also. Here's my HackerRank <a href="https://www.hackerrank.com/SergioBalca">profile</a>
