@@ -100,3 +100,66 @@ string: either YES or NO
 
 A single line of four space-separated integers denoting the respective values of <em>X1</em>,<em>V1</em> , <em>X2</em>, and <em>V2</em>.
 
+
+# Tower Breakers
+
+<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="51px" height="51px"></a>
+
+Two players are playing a game of Tower Breakers! Player 1 always moves first, and both players always play optimally.The rules of the game are as follows:
+
+<ul>
+    <li>Initially there are n towers</li>
+    <li>Each tower is of height m</li>
+    <li>The players move in alternating turns</li>
+    <li>
+        In each turn, a player can choose a tower of height <em>x</em> and reduce its height to <em>y</em>. Where 1 <= <em>y</em><<em>x</em> and <em>y</em>evenly divides <em>x</em>
+    </li>
+    <li>If the current player is unable to make a move, they lose the game.</li>
+</ul>
+
+Given the values of <em>n</em> and <em>m</em>, determine which player will win. If the first player wins, return 1. Otherwise, return 2.
+
+<b>*Example*</b>
+<em>n = 2</em>
+<em>m = 6</em>
+
+There are 2 towers, each 6 units tall. Player 1 has a choice of two moves:
+- remove 3 pieces from a tower to leave 3 as 6 module 3 = 0
+- remove 5 pieces to leave 1.
+
+Let Player 1 remove 3. Now the towers are 3 and  6 units tall.
+
+Player 2 matches the move. Now the towers are both 3 units tall.
+
+Now Player 1 has only one move.
+
+Player 1 removes 2 pieces leaving 1. Towers are 1 and 2 units tall.
+Player 2 matches again. Towers are both 1 unit tall.
+
+Player 1 has no move and loses. Return 2.
+
+<b>Function Description</b>
+
+int n: the number of towers
+int m: the height of each tower
+
+<b>Returns</b>
+int: the winner of the game
+
+<b>Input Format</b>
+
+The first line contains a single integer t, the number of test cases.
+Each of the next t lines describes a test case in the form of 2 space-separated integers, n and m.
+
+<b>Sample input</b>
+
+STDIN   Function
+-----   --------
+2       t = 2
+2 2     n = 2, m = 2
+1 4     n = 1, m = 4
+
+<b>Sample output</b>
+
+2
+1
