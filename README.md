@@ -1,14 +1,15 @@
 <img src='images/hacker_rank.png' alt='logo'>
-<figure>
-    <img src="images/picture.jpg" width="200">
-    <figcaption><a href="https://www.hackerrank.com/SergioBalca">www.hackerrank.com/SergioBalca</a></figcaption>
-</figure>
 
 # About HackerRank
 
 <a href='https://www.hackerrank.com/'>HackerRank</a> is a technology hiring platform that is the standard for assessing developer skills for over 2.800+ companies around the world.
 By enabling recruiters and managers to objectively evaluate talent at every stage of the recruiting process, HackerRank helps companies hire skilled
 developers and innovate faster.
+
+<figure>
+    <img src="images/picture.jpg" width="200">
+    <figcaption><a href="https://www.hackerrank.com/SergioBalca">www.hackerrank.com/SergioBalca</a></figcaption>
+</figure>
 
 # About the repository
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="51px" height="51px"></a>
