@@ -1,5 +1,5 @@
 <img src='images/hacker_rank.png' alt='logo'>
-<a href="https://www.hackerrank.com/SergioBalca">My HackerRank profile</a>
+<img src="images/picture.jpg"><a href="https://www.hackerrank.com/SergioBalca">My HackerRank profile</a></img>
 
 # About HackerRank
 
